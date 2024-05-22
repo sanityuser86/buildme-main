@@ -8,4 +8,7 @@
   },
   "author": "",
   "license": "ISC"
+  "publishConfig": {
+  "@sanityuser86:registry": "https://npm.pkg.github.com"
+}
 }
